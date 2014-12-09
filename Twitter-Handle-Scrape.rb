@@ -19,4 +19,5 @@ end
 
 get_tweets(scrape_page)
 split_data
-puts list_tweets
+puts list_tweet
+
